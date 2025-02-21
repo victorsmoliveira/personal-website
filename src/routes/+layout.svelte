@@ -14,6 +14,8 @@
 	}
 </script>
 
+export const prerender = true;
+
 <nav>
 	<ul>
 		<li class:active={activeTab === 'Home'}>
